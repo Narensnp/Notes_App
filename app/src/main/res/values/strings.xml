@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layers</string>
+    <string name="widget_name">Layers · Today</string>
+    <string name="widget_description">Today\'s tasks, plus quick buttons for a new note or a note from your last screenshot.</string>
+    <string name="tile_new_note">New note</string>
+    <string name="tile_screenshot_note">Note from screenshot</string>
+    <string name="shortcut_new_note_short">New note</string>
+    <string name="shortcut_new_note_long">Create a new note</string>
+    <string name="shortcut_new_task_short">New task</string>
+    <string name="shortcut_new_task_long">Create a new task</string>
+    <string name="shortcut_search_short">Search</string>
+    <string name="shortcut_search_long">Search your notes</string>
+    <string name="channel_reminders">Task reminders</string>
+    <string name="channel_reminders_desc">Reminders for tasks with a due time</string>
+</resources>

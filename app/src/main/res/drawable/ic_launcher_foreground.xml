@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Three stacked sheets of paper: the "layers" mark, with a numbered pin on the top sheet. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:pivotX="54" android:pivotY="54" android:scaleX="0.8" android:scaleY="0.8">
+    <group android:pivotX="54" android:pivotY="54" android:rotation="-14" android:translateX="-3" android:translateY="3">
+        <path android:fillColor="#FFB9C7D3" android:pathData="M38,28 h32 a4,4 0 0 1 4,4 v44 a4,4 0 0 1 -4,4 h-32 a4,4 0 0 1 -4,-4 v-44 a4,4 0 0 1 4,-4 z" />
+    </group>
+    <group android:pivotX="54" android:pivotY="54" android:rotation="-6" android:translateX="-1" android:translateY="1">
+        <path android:fillColor="#FFDCD3C2" android:pathData="M38,28 h32 a4,4 0 0 1 4,4 v44 a4,4 0 0 1 -4,4 h-32 a4,4 0 0 1 -4,-4 v-44 a4,4 0 0 1 4,-4 z" />
+    </group>
+    <group android:pivotX="54" android:pivotY="54" android:rotation="3">
+        <path android:fillColor="#FFFFFBF3" android:pathData="M38,28 h32 a4,4 0 0 1 4,4 v44 a4,4 0 0 1 -4,4 h-32 a4,4 0 0 1 -4,-4 v-44 a4,4 0 0 1 4,-4 z" />
+        <path android:fillColor="#FF263B4F" android:pathData="M41,40 h18 a1.5,1.5 0 0 1 0,3 h-18 a1.5,1.5 0 0 1 0,-3 z" />
+        <path android:fillColor="#FF8DA0B1" android:pathData="M41,49 h26 a1.5,1.5 0 0 1 0,3 h-26 a1.5,1.5 0 0 1 0,-3 z" />
+        <path android:fillColor="#FF8DA0B1" android:pathData="M41,57 h22 a1.5,1.5 0 0 1 0,3 h-22 a1.5,1.5 0 0 1 0,-3 z" />
+        <path android:fillColor="#FF8DA0B1" android:pathData="M41,65 h14 a1.5,1.5 0 0 1 0,3 h-14 a1.5,1.5 0 0 1 0,-3 z" />
+        <path android:fillColor="#FFC0605E" android:pathData="M66,32 a5,5 0 1 1 0,10 a5,5 0 1 1 0,-10 z" />
+        <path android:fillColor="#FFFFFBF3" android:pathData="M66,35.5 a1.5,1.5 0 1 1 0,3 a1.5,1.5 0 1 1 0,-3 z" />
+    </group>
+    </group>
+</vector>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Attachments in internal storage (camera photos are written straight here) -->
+    <files-path name="attachments" path="attachments/" />
+    <!-- Temporary copies for sharing (decrypted attachments, exported PDFs and images) -->
+    <cache-path name="shared" path="shared/" />
+</paths>
